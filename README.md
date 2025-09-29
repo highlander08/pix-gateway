@@ -1,11 +1,8 @@
-
 <img width="836" height="640" alt="Captura de tela 2025-09-29 013345" src="https://github.com/user-attachments/assets/ca388fac-543c-47b9-a31e-a3e48ec0755a" />
+
 <img width="1355" height="653" alt="Captura de tela 2025-09-29 021445" src="https://github.com/user-attachments/assets/72db9cab-1bc3-4aaf-b638-a50b5b10b436" />
 ```markdown
 # Payment Gateway com PIX e Clean Architecture
-
-
-
 
 ## 📄 Descrição do Projeto
 Este projeto implementa um **gateway de pagamento com PIX**, integrado ao **Mercado Pago**, utilizando o framework **NestJS** e seguindo os princípios da **Clean Architecture**.  
@@ -247,3 +244,5 @@ git push origin minha-feature
 Para dúvidas ou sugestões, entre em contato via **[santosray62@example.com](santosray62@example.com)** ou abra uma *issue* no repositório.
 
 ```
+
+
