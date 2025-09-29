@@ -1,5 +1,3 @@
-<img width="836" height="640" alt="Captura de tela 2025-09-29 013345" src="https://github.com/user-attachments/assets/46b705e5-d4f8-45db-ac3d-ca0a3243df6c" />
-<img width="1355" height="653" alt="Captura de tela 2025-09-29 021445" src="https://github.com/user-attachments/assets/28a12d21-64a6-4d64-85e5-6e0903d8ef62" />
 ```markdown
 # Payment Gateway com PIX e Clean Architecture
 
