@@ -1,9 +1,14 @@
+
+
 ```markdown
 # Payment Gateway com PIX e Clean Architecture
 
 ## 📄 Descrição do Projeto
 Este projeto implementa um **gateway de pagamento com PIX**, integrado ao **Mercado Pago**, utilizando o framework **NestJS** e seguindo os princípios da **Clean Architecture**.  
-O sistema foi projetado para ser **modular**, **testável**, **escalável** e **independente de tecnologias externas**, permitindo fácil manutenção e troca de provedores de pagamento (ex.: Mercado Pago por PagSeguro).  
+O sistema foi projetado para ser **modular**, **testável**, **escalável** e **independente de tecnologias externas**, permitindo fácil manutenção e troca de provedores de pagamento (ex.: Mercado Pago por PagSeguro).
+
+[api gatwawy frontend.webm](https://github.com/user-attachments/assets/ee06c131-e0bd-41a6-a4de-79e9b323a8b1)
+
 
 ### Funcionalidades principais:
 - **Criação de pagamentos PIX**: Gera um código PIX e QR Code para transações instantâneas.  
