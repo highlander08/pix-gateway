@@ -1,0 +1,20 @@
+## Criar um pagamento via PIX
+POST http://localhost:3000/payments/pix
+Content-Type: application/json
+Accept: application/json
+Authorization: Bearer SEU_TOKEN_AQUI
+Idempotency-Key: 9f6a2e80-2a32-4c67-9c61-bc8a12345678
+X-Request-Id: 1a2b3c4d-5678-90ab-cdef-1234567890ab
+
+{
+  "amount": 200,
+  "description": "Teste de pagamento PIX agora",
+  "email": "cliente@email.com"
+}
+
+###
+### Consultar status do pagamento usando o paymentId do POST
+GET http://localhost:3000/payments/pix/1341388959
+Accept: application/json
+Authorization: Bearer SEU_TOKEN_AQUI
+X-Request-Id: 2b3c4d5e-6789-01ab-cdef-2345678901ab
